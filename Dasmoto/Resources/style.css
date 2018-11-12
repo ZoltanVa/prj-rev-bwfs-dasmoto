@@ -2,7 +2,7 @@ html {
   font-family: Helvetica;
 }
 h1 {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  background-image: url("file://D:/CodeCademy/Dasmoto/Resources/Images/pattern.jpeg");
   font-size: 100px;
   font weight: bold;
   color: khaki;
